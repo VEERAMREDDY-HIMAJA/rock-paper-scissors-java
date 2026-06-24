@@ -12,7 +12,7 @@ Java
 - Scanner Class
 - Random Class
 ## Concepts
--Loops (for, while)
+- Loops (for, while)
 - Conditional Statements (if-else)
 - Switch Statement
 - String Handling
